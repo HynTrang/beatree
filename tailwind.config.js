@@ -14,12 +14,8 @@ module.exports = {
       xl: '1200px',
     },
     fontFamily: {
-      primary: 'DM Serif Display',
-      secondary: 'Jost'
-    },
-    backgroundImage: {
-      hero: 'url(/public/assets/hero/bg.jpg)',
-      grid: 'url(/public/assets/grisd.png)'
+      primary: 'Playfair Display',
+      secondary: 'Barlow'
     },
     extend: {
       colors: {
@@ -29,9 +25,9 @@ module.exports = {
         },
         secondary: '#4d5053',
         accent: {
-          DEFAULT: '#cda247',
-          secondary: '#f4f0ec',
-          hover: '#b88c5d'
+          DEFAULT: '#40A578',
+          secondary: '#ecf8f3',
+          hover: '#358963'
         }
       }
     },
